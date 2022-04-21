@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ghanshyam/static/css/main.a0d5e774.css",
-    "main.js": "/ghanshyam/static/js/main.dd853659.js",
+    "main.js": "/ghanshyam/static/js/main.d483c4e4.js",
     "static/js/415.4d6acbeb.chunk.js": "/ghanshyam/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/ghanshyam/static/js/787.1ed0c42c.chunk.js",
     "static/media/gruhudhyog.png": "/ghanshyam/static/media/gruhudhyog.df82aeb69af9bad0b811.png",
@@ -23,12 +23,12 @@
     "static/media/pre.svg": "/ghanshyam/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/ghanshyam/index.html",
     "main.a0d5e774.css.map": "/ghanshyam/static/css/main.a0d5e774.css.map",
-    "main.dd853659.js.map": "/ghanshyam/static/js/main.dd853659.js.map",
+    "main.d483c4e4.js.map": "/ghanshyam/static/js/main.d483c4e4.js.map",
     "415.4d6acbeb.chunk.js.map": "/ghanshyam/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/ghanshyam/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a0d5e774.css",
-    "static/js/main.dd853659.js"
+    "static/js/main.d483c4e4.js"
   ]
 }
