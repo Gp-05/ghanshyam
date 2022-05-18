@@ -8,6 +8,7 @@ import img3 from "../../Assets/certicate/3.png";
 import img4 from "../../Assets/certicate/4.png";
 import img5 from "../../Assets/certicate/5.png";
 import img6 from "../../Assets/certicate/6.png";
+import img7 from "../../Assets/certicate/7.png";
 
 
 function Projects() {
@@ -42,6 +43,14 @@ function Projects() {
               imgPath={img3}
               isBlog={false}
               title="Training Completion Certificate"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <CertificateCard
+              imgPath={img7}
+              isBlog={false}
+              title="Skill-Up"
             />
           </Col>
 
