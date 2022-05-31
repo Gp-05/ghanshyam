@@ -9,6 +9,7 @@ import img4 from "../../Assets/certicate/4.png";
 import img5 from "../../Assets/certicate/5.png";
 import img6 from "../../Assets/certicate/6.png";
 import img7 from "../../Assets/certicate/7.png";
+import img8 from "../../Assets/certicate/8.png";
 
 
 function Projects() {
@@ -30,6 +31,14 @@ function Projects() {
             />
           </Col>
 
+          <Col md={4} className="project-card">
+            <CertificateCard
+              imgPath={img8}
+              isBlog={false}
+              title="Full-Stack Java Certificate"
+            />
+          </Col>
+          
           <Col md={4} className="project-card">
             <CertificateCard
               imgPath={img2}
