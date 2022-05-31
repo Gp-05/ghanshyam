@@ -10,6 +10,7 @@ import img5 from "../../Assets/certicate/5.png";
 import img6 from "../../Assets/certicate/6.png";
 import img7 from "../../Assets/certicate/7.png";
 import img8 from "../../Assets/certicate/8.png";
+import img9 from "../../Assets/certicate/9.png";
 
 
 function Projects() {
@@ -44,6 +45,14 @@ function Projects() {
               imgPath={img2}
               isBlog={false}
               title="NSDC Certificate"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <CertificateCard
+              imgPath={img9}
+              isBlog={false}
+              title="java Framework Certificate"
             />
           </Col>
 
