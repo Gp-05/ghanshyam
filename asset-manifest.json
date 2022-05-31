@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ghanshyam/static/css/main.a0d5e774.css",
-    "main.js": "/ghanshyam/static/js/main.0c14f035.js",
+    "main.js": "/ghanshyam/static/js/main.4c7078fa.js",
     "static/js/415.4d6acbeb.chunk.js": "/ghanshyam/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/ghanshyam/static/js/787.1ed0c42c.chunk.js",
     "static/media/gruhudhyog.png": "/ghanshyam/static/media/gruhudhyog.df82aeb69af9bad0b811.png",
@@ -11,6 +11,7 @@
     "static/media/ghanshyam_resume.pdf": "/ghanshyam/static/media/ghanshyam_resume.07f7a1c27d72f11d01da.pdf",
     "static/media/7.png": "/ghanshyam/static/media/7.81402e1b3f8206d20d75.png",
     "static/media/8.png": "/ghanshyam/static/media/8.bcb411b0ad3d9320805c.png",
+    "static/media/9.png": "/ghanshyam/static/media/9.f6c1e17486322954d0fb.png",
     "static/media/5.png": "/ghanshyam/static/media/5.eba0043815a21791e71f.png",
     "static/media/gp.JPEG": "/ghanshyam/static/media/gp.1279d15fc1f05f93ae06.JPEG",
     "static/media/4.png": "/ghanshyam/static/media/4.c1ff7c0dbbbd75b26275.png",
@@ -25,12 +26,12 @@
     "static/media/pre.svg": "/ghanshyam/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/ghanshyam/index.html",
     "main.a0d5e774.css.map": "/ghanshyam/static/css/main.a0d5e774.css.map",
-    "main.0c14f035.js.map": "/ghanshyam/static/js/main.0c14f035.js.map",
+    "main.4c7078fa.js.map": "/ghanshyam/static/js/main.4c7078fa.js.map",
     "415.4d6acbeb.chunk.js.map": "/ghanshyam/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/ghanshyam/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a0d5e774.css",
-    "static/js/main.0c14f035.js"
+    "static/js/main.4c7078fa.js"
   ]
 }
