@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/ghanshyam/static/css/main.a0d5e774.css",
-    "main.js": "/ghanshyam/static/js/main.4c7078fa.js",
+    "main.css": "/ghanshyam/static/css/main.83b6e8c7.css",
+    "main.js": "/ghanshyam/static/js/main.c2de9dbf.js",
     "static/js/415.4d6acbeb.chunk.js": "/ghanshyam/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/ghanshyam/static/js/787.1ed0c42c.chunk.js",
     "static/media/gruhudhyog.png": "/ghanshyam/static/media/gruhudhyog.df82aeb69af9bad0b811.png",
     "static/media/1.png": "/ghanshyam/static/media/1.fde4d28531d491319406.png",
     "static/media/6.png": "/ghanshyam/static/media/6.377866ba436577321896.png",
     "static/media/2.png": "/ghanshyam/static/media/2.914f84a0ab74b0d1ebb2.png",
-    "static/media/ghanshyam_resume.pdf": "/ghanshyam/static/media/ghanshyam_resume.07f7a1c27d72f11d01da.pdf",
     "static/media/7.png": "/ghanshyam/static/media/7.81402e1b3f8206d20d75.png",
     "static/media/8.png": "/ghanshyam/static/media/8.bcb411b0ad3d9320805c.png",
     "static/media/9.png": "/ghanshyam/static/media/9.f6c1e17486322954d0fb.png",
     "static/media/5.png": "/ghanshyam/static/media/5.eba0043815a21791e71f.png",
+    "static/media/ghanshyam_updated_resume.pdf": "/ghanshyam/static/media/ghanshyam_updated_resume.8cd2181fbc7397c1d2f7.pdf",
     "static/media/gp.JPEG": "/ghanshyam/static/media/gp.1279d15fc1f05f93ae06.JPEG",
     "static/media/4.png": "/ghanshyam/static/media/4.c1ff7c0dbbbd75b26275.png",
     "static/media/home-main.svg": "/ghanshyam/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
@@ -25,13 +25,13 @@
     "static/media/micro.png": "/ghanshyam/static/media/micro.763cf49ce00f9bc44775.png",
     "static/media/pre.svg": "/ghanshyam/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/ghanshyam/index.html",
-    "main.a0d5e774.css.map": "/ghanshyam/static/css/main.a0d5e774.css.map",
-    "main.4c7078fa.js.map": "/ghanshyam/static/js/main.4c7078fa.js.map",
+    "main.83b6e8c7.css.map": "/ghanshyam/static/css/main.83b6e8c7.css.map",
+    "main.c2de9dbf.js.map": "/ghanshyam/static/js/main.c2de9dbf.js.map",
     "415.4d6acbeb.chunk.js.map": "/ghanshyam/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/ghanshyam/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a0d5e774.css",
-    "static/js/main.4c7078fa.js"
+    "static/css/main.83b6e8c7.css",
+    "static/js/main.c2de9dbf.js"
   ]
 }
