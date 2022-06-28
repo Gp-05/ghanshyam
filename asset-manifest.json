@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ghanshyam/static/css/main.83b6e8c7.css",
-    "main.js": "/ghanshyam/static/js/main.c2de9dbf.js",
+    "main.js": "/ghanshyam/static/js/main.920c01e1.js",
     "static/js/415.4d6acbeb.chunk.js": "/ghanshyam/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/ghanshyam/static/js/787.1ed0c42c.chunk.js",
     "static/media/gruhudhyog.png": "/ghanshyam/static/media/gruhudhyog.df82aeb69af9bad0b811.png",
@@ -12,8 +12,8 @@
     "static/media/8.png": "/ghanshyam/static/media/8.bcb411b0ad3d9320805c.png",
     "static/media/9.png": "/ghanshyam/static/media/9.f6c1e17486322954d0fb.png",
     "static/media/5.png": "/ghanshyam/static/media/5.eba0043815a21791e71f.png",
+    "static/media/pgg.jpg": "/ghanshyam/static/media/pgg.b9f6593b5c8fa5c35296.jpg",
     "static/media/ghanshyam_updated_resume.pdf": "/ghanshyam/static/media/ghanshyam_updated_resume.8cd2181fbc7397c1d2f7.pdf",
-    "static/media/gp.JPEG": "/ghanshyam/static/media/gp.1279d15fc1f05f93ae06.JPEG",
     "static/media/4.png": "/ghanshyam/static/media/4.c1ff7c0dbbbd75b26275.png",
     "static/media/home-main.svg": "/ghanshyam/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
     "static/media/about.png": "/ghanshyam/static/media/about.aee0f771fbfc1e7b8fa8.png",
@@ -26,12 +26,12 @@
     "static/media/pre.svg": "/ghanshyam/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/ghanshyam/index.html",
     "main.83b6e8c7.css.map": "/ghanshyam/static/css/main.83b6e8c7.css.map",
-    "main.c2de9dbf.js.map": "/ghanshyam/static/js/main.c2de9dbf.js.map",
+    "main.920c01e1.js.map": "/ghanshyam/static/js/main.920c01e1.js.map",
     "415.4d6acbeb.chunk.js.map": "/ghanshyam/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/ghanshyam/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.83b6e8c7.css",
-    "static/js/main.c2de9dbf.js"
+    "static/js/main.920c01e1.js"
   ]
 }
