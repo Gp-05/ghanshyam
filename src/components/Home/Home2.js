@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import myImg from "../../Assets/pgg.jpg";
+import myImg from "../../Assets/ghanshyam.jpeg";
 import Tilt from "react-parallax-tilt";
 import {
   AiFillInstagram,
@@ -23,7 +23,7 @@ function Home2() {
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> C,C++,C#,Core,Angular,React-JS Python and Java. </b>
+                <b className="purple"> C,C++,C#,Core,Basic Python and Java.</b>
               </i>
               <br />
               <br />
@@ -38,11 +38,11 @@ function Home2() {
               <br />
               <br />
               Whenever possible, I also apply my passion for developing products
-              with <b className="purple">React.js,Angular</b> and
+              with
               <i>
                 <b className="purple">
                   {" "}
-                  full-stack java
+                  Java Developer
                 </b>
               </i>
             </p>

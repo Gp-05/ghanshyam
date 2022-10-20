@@ -8,6 +8,7 @@ import hunt from "../../Assets/Projects/hunt.png";
 import gruhudhyog from "../../Assets/Projects/gruhudhyog.png";
 import micro from "../../Assets/Projects/micro.png";
 import artishub from "../../Assets/Projects/artishub.png";
+import watu from "../../Assets/Projects/watu.png";
 
 function Projects() {
   return (
@@ -21,22 +22,13 @@ function Projects() {
           Here are a few projects I've worked on recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={gruhudhyog}
-              isBlog={false}
-              title="GruhUdhyog"
-              description="A Gruh Udyog enterprise is a project, firm, or business that is produced on a limited budget or for a small number of people, such as craftsmen, artisans, and technologists, who are skilled to work from their homes or from any place and utilized small machines, hired labor, and other business requirements."
-           
-            />
-          </Col>
 
-          <Col md={4} className="project-card">
+        <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={artishub}
+              imgPath={watu}
               isBlog={false}
-              title="Artist Hub"
-              description="An Artist Hub is a centralized space for artists to come together to share resources, learn skills, serve community needs, and make art. A Hub empowers artists and the organizations that support them to cross-pollinate with one another in a creative and lively workspace."
+              title="Watu-App"
+              description="Watu app is Telecommunication Domain and my rule create Sprint boot REST API"
             />
           </Col>
 
@@ -46,6 +38,25 @@ function Projects() {
               isBlog={false}
               title="Hunt-App"
               description="hunt app is online job finding apps and Create the REST API in Spring Boot"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={gruhudhyog}
+              isBlog={false}
+              title="GruhUdhyog"
+              description="A Gruh Udyog enterprise is a project, firm, or business that is produced on a limited budget or for a small number of people, such as craftsmen, artisans, and technologists, who are skilled to work from their homes or from any place and utilized small machines, hired labor, and other business requirements."
+
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={artishub}
+              isBlog={false}
+              title="Artist Hub"
+              description="An Artist Hub is a centralized space for artists to come together to share resources, learn skills, serve community needs, and make art. A Hub empowers artists and the organizations that support them to cross-pollinate with one another in a creative and lively workspace."
             />
           </Col>
 
