@@ -18,40 +18,8 @@ function Footer() {
         <Col md="4" className="footer-copywright">
           <h3>Copyright © {year}</h3>
         </Col>
-        <Col md="4" className="footer-body">
-          <ul className="footer-icons">
-         
-            <li className="social-icons">
-              <a
-                href="https://www.facebook.com/profile.php?id=100009181128606"
-                style={{ color: "white" }}
-                target="_blank" 
-                rel="noopener noreferrer"
-              >
-                <AiFillFacebook />
-              </a>
-            </li>
-            <li className="social-icons">
-              <a
-                href="https://www.linkedin.com/in/ghanshyam-panchal-3179a820a"
-                style={{ color: "white" }}
-                target="_blank" 
-                rel="noopener noreferrer"
-              >
-                <FaLinkedinIn />
-              </a>
-            </li>
-            <li className="social-icons">
-              <a
-                href="https://instagram.com/panchal_5311?utm_medium=copy_link"
-                style={{ color: "white" }}
-                target="_blank" 
-                rel="noopener noreferrer"
-              >
-                <AiFillInstagram />
-              </a>
-            </li>
-          </ul>
+        <Col md="4" className="footer-copywright">
+          <h3>+91 9904860268</h3>
         </Col>
       </Row>
     </Container>
