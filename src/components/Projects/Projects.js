@@ -50,16 +50,7 @@ function Projects() {
 
             />
           </Col>
-
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={artishub}
-              isBlog={false}
-              title="Artist Hub"
-              description="An Artist Hub is a centralized space for artists to come together to share resources, learn skills, serve community needs, and make art. A Hub empowers artists and the organizations that support them to cross-pollinate with one another in a creative and lively workspace."
-            />
-          </Col>
-
+          
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={exam}
