@@ -7,8 +7,8 @@ import java from "../../Assets/Projects/java.png";
 import hunt from "../../Assets/Projects/hunt.png";
 import gruhudhyog from "../../Assets/Projects/gruhudhyog.png";
 import micro from "../../Assets/Projects/micro.png";
-import artishub from "../../Assets/Projects/artishub.png";
 import watu from "../../Assets/Projects/watu.png";
+import debriefing from "../../Assets/Projects/debriefingLogo.png";
 
 function Projects() {
   return (
@@ -23,7 +23,16 @@ function Projects() {
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
 
-        <Col md={4} className="project-card">
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={debriefing}
+              isBlog={false}
+              title="Debriefing"
+              description="Debriefing is Web Application to manage Questionnaire and my rule create Sprint boot REST API"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
             <ProjectCard
               imgPath={watu}
               isBlog={false}
@@ -50,7 +59,7 @@ function Projects() {
 
             />
           </Col>
-          
+
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={exam}

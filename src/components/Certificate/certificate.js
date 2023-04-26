@@ -11,6 +11,7 @@ import img6 from "../../Assets/certicate/6.png";
 import img7 from "../../Assets/certicate/7.png";
 import img8 from "../../Assets/certicate/8.png";
 import img9 from "../../Assets/certicate/9.png";
+import img10 from "../../Assets/certicate/10.JPEG";
 
 
 function Projects() {
@@ -23,12 +24,20 @@ function Projects() {
         </h1>
 
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
-          <Col md={4} className="project-card">
 
+          <Col md={4} className="project-card">
             <CertificateCard
               imgPath={img1}
               isBlog={false}
               title="Certificate of Achievement"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <CertificateCard
+              imgPath={img10}
+              isBlog={false}
+              title="Pride of Month"
             />
           </Col>
 
