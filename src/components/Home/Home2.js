@@ -73,7 +73,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/ghanshyam-panchal-3179a820a"
+                  href="https://www.linkedin.com/in/ghanshyam-panchal-6b4272274"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -83,7 +83,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://instagram.com/panchal_5311?utm_medium=copy_link"
+                  href="https://www.instagram.com/panchal_5311/?igshid=MjEwN2IyYWYwYw%3D%3D"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"

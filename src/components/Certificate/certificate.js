@@ -27,14 +27,6 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <CertificateCard
-              imgPath={img1}
-              isBlog={false}
-              title="Certificate of Achievement"
-            />
-          </Col>
-
-          <Col md={4} className="project-card">
-            <CertificateCard
               imgPath={img10}
               isBlog={false}
               title="Pride of Month"
@@ -43,17 +35,51 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <CertificateCard
-              imgPath={img8}
+              imgPath={img1}
               isBlog={false}
-              title="Full-Stack Java Certificate"
+              title="Certificate of Achievement"
             />
           </Col>
-          
+
           <Col md={4} className="project-card">
             <CertificateCard
               imgPath={img2}
               isBlog={false}
               title="NSDC Certificate"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <CertificateCard
+              imgPath={img6}
+              isBlog={false}
+              title="Digital Marketing Certification"
+            />
+          </Col>
+
+
+          <Col md={4} className="project-card">
+            <CertificateCard
+              imgPath={img3}
+              isBlog={false}
+              title="Training Completion Certificate"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <CertificateCard
+              imgPath={img5}
+              isBlog={false}
+              title="Java Certification"
+            />
+          </Col>
+
+
+          <Col md={4} className="project-card">
+            <CertificateCard
+              imgPath={img8}
+              isBlog={false}
+              title="Full-Stack Java Certificate"
             />
           </Col>
 
@@ -67,19 +93,13 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <CertificateCard
-              imgPath={img3}
-              isBlog={false}
-              title="Training Completion Certificate"
-            />
-          </Col>
-
-          <Col md={4} className="project-card">
-            <CertificateCard
               imgPath={img7}
               isBlog={false}
               title="Skill-Up"
             />
           </Col>
+
+         
 
           <Col md={4} className="project-card">
             <CertificateCard
@@ -89,21 +109,8 @@ function Projects() {
             />
           </Col>
 
-          <Col md={4} className="project-card">
-            <CertificateCard
-              imgPath={img5}
-              isBlog={false}
-              title="Java Certification"
-            />
-          </Col>
+        
 
-          <Col md={4} className="project-card">
-            <CertificateCard
-              imgPath={img6}
-              isBlog={false}
-              title="Digital Marketing Certification"
-            />
-          </Col>
         </Row>
       </Container>
     </Container>
