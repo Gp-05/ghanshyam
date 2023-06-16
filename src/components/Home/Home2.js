@@ -23,28 +23,51 @@ function Home2() {
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> C,C++,C#,Core,Basic Python and Java.</b>
+                <b className="purple"> core java, adv java,
+                  spring MVC, Spring Boot REST API, Spring
+                  Boot Micro services, HTML CSS , AWS.</b>
               </i>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
+              Skilled in creating high-quality design from REST API
               <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
                 <b className="purple">
-                  Deep Learning and Natural Launguage Processing.
+                  {" "}
+                  REST API.
                 </b>
               </i>
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
+              Excellent team player with experience working
               with
               <i>
                 <b className="purple">
                   {" "}
-                  Java Developer
+                  Git, GitHub, and Jira.
                 </b>
               </i>
+              <br />
+              <br />
+              Achieved 80% + test coverage and thorough
+              testing to ensure high-quality code.
+              <i>
+                <b className="purple">
+                  {" "}
+                  high-quality code.
+                </b>
+              </i>
+              <br />
+              <br />
+              Continuously staying up-to-date with the latest
+              development trends and technologies to deliver
+              cutting-edge solutions.
+              <i>
+                <b className="purple">
+                  {" "}
+                  cutting-edge solutions.
+                </b>
+              </i>
+              <br />
             </p>
           </Col>
           <Col md={4} className="myAvtar">
@@ -60,7 +83,7 @@ function Home2() {
               Feel free to <span className="purple">connect </span>with me
             </p>
             <ul className="home-about-social-links">
-          
+
               <li className="social-icons">
                 <a
                   href="https://www.facebook.com/profile.php?id=100009181128606"
