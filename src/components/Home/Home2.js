@@ -29,7 +29,7 @@ function Home2() {
               </i>
               <br />
               <br />
-              Skilled in creating high-quality design from REST API
+              Skilled in creating high-quality design from
               <i>
                 <b className="purple">
                   {" "}
@@ -49,7 +49,7 @@ function Home2() {
               <br />
               <br />
               Achieved 80% + test coverage and thorough
-              testing to ensure high-quality code.
+              testing to ensure
               <i>
                 <b className="purple">
                   {" "}
@@ -60,7 +60,6 @@ function Home2() {
               <br />
               Continuously staying up-to-date with the latest
               development trends and technologies to deliver
-              cutting-edge solutions.
               <i>
                 <b className="purple">
                   {" "}

@@ -9,7 +9,7 @@ import "react-pdf/dist/esm/Page/AnnotationLayer.css";
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
 
 function ResumeNew() {
-  
+
   const [width, setWidth] = useState(1200);
 
   useEffect(() => {
@@ -18,13 +18,11 @@ function ResumeNew() {
 
   return (
     <div>
-      
+
       <Container fluid className="resume-section">
         <Particle />
         <Row style={{ justifyContent: "center", position: "relative" }}>
           <Button
-                //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
-
             variant="primary"
             href={pdf}
             target="_blank"
@@ -38,6 +36,9 @@ function ResumeNew() {
         <Row className="resume">
           <Document file={pdf} className="d-flex justify-content-center">
             <Page pageNumber={1} scale={width > 900 ? 2.0 : 0.6} />
+          </Document>
+          <Document file={pdf} className="d-flex justify-content-center">
+            <Page pageNumber={2} scale={width > 900 ? 2.0 : 0.6} />
           </Document>
         </Row>
 
